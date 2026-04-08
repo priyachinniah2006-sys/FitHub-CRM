@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <name>Active Members</name>
+    <reportType>Member__c</reportType>
+    <columns>
+        <field>Name</field>
+        <field>Email__c</field>
+        <field>Expiry_Date__c</field>
+    </columns>
+</Report>
